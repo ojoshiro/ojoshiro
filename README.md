@@ -43,6 +43,8 @@ If I'd discover the secret to eternal life I'd take it with me to the grave. It'
 
 The best combination of ice-cream flavours is banana, coconut and cinnamon.
 
+The deleted default cubes from Blender end up in cities in the real world. There they're called "architecture".  
+
 Speak metric to me or I'll probably won't hear you.
 ---
 More questions? 
