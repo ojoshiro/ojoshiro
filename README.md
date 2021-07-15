@@ -1,8 +1,22 @@
 - 👋 Hi, I’m @ojoshiro. No, Ojoshiro. I'm not 'at' ojoshiro. Names already HAD an indicator. They start with a capital... Don't reinvent the wheel.
-- 👀 I’m interested in creating beautiful things, figuring out how things work and finding a way to make more of the time I have.
+- 👀 I’m interested in creating beautiful things, figuring out how things work and finding a way to make more of the time I have. I do like food, music, drawing, books and games.
 - 🌱 I’m currently learning Discord.botisms, Arduino Sketches, Turning a raspberry pi into a doorbitch (VPN, PiHole, NAS, GitHome) and how to be nice.
 - 💞️ I’m looking to collaborate on World Domination, SARS-Covid 2022 (The strain that attacks press and politicians first) and development of Real Intelligence (Naming yourself "sapiens" doesn't make it so).
 - 📫 You can try yelling my name. You could open a church and hope praying to me helps (about as likely as praying to anything else helps). You could try luring me with food. Chances that sending an email to <ojoshiro@gmail.com> works are about as slim as Linux running without commandline.
+
+I severely do NOT believe in fancy jargon. It's deployed to hide ignorance. (Managerbabble)
+Python is a total and utter piece of crap. Useless to learn anything about programming and only different for the sake of being different. (The language, the Elite Dangerous ship is a complete dream).
+Assembler was already Turing-complete. A flavour-of-the-day language isn't going to add anything, only run off old programmers who decide they've had enough of management changing tools based on buzzwords they heard in the manager-bar.
+Ginger slices with a clove make for the best tea.
+I cannot sit still.
+By the time I'm 1000 years old I may have developed an analog view on the world. For now it's mostly binary.
+The previous instance of (somewhat)intelligent life is still among us. They gengineered parasites to alter their prey's behaviour and uplifted Pan Narrans to make life easier. They dominate the internet. Cats. They guard Earth against extraterrestrial life. They can hear a tin can from 34 parsecs.
+Yes I'm colourblind. And so are you. Can you see UV? Gamma? Radio? It's just a colour of light.
+It's "alumin--I--um" (Because I'm inthere).
+There are 2 genders: XX and XY. Anyone not XX or XY is either suffering from Down- or Turner Syndrome.
+"You should behave differently because I'm..." is just as much discrimination as "You can't because you're..." (And "Black lives matter"? You honestly think that anything on this floating grain of sand matters?)
+Covid19 would not have been a problem if politicians had only elaborated they panic-actions. Stay 1.5 meter apart IN THE BEDROOM. Wear a facemask OVER YOUR GENITALIA.
+Speak metric to me or I'll probably won't hear you.
 
 More questions? 
 
