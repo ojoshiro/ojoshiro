@@ -12,6 +12,8 @@ Assembler was already Turing-complete. A flavour-of-the-day language isn't going
 
 Ginger slices with a clove make for the best tea.
 
+The master branch is called "master". Fancy flashing of "politically correctness" is more marketing than social. Just changing the name of some folder isn't going to make US police pick a different target to practise on. On top of that, "Those who cannot remember the past are condemned to repeat it" so... hide everything, delete everything, deny everything and save up some money to buy slaves.  
+
 I cannot sit still.
 
 By the time I'm 1000 years old I may have developed an analog view on the world. For now it's mostly binary.
