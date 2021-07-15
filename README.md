@@ -6,6 +6,8 @@
 ---
 I severely do NOT believe in fancy jargon. It's deployed to hide ignorance. (Managerbabble)
 
+Water is a weird substance.
+
 Python is a total and utter piece of crap. Useless to learn anything about programming and only different for the sake of being different. (The language, the Elite Dangerous ship is a complete dream).
 
 Assembler was already Turing-complete. A flavour-of-the-day language isn't going to add anything, only run off old programmers who decide they've had enough of management changing tools based on buzzwords they heard in the manager-bar.
@@ -25,10 +27,11 @@ Yes I'm colourblind. And so are you. Can you see UV? Gamma? Radio? It's just a c
 It's "alumin--I--um" (Because I'm inthere).
 
 There are 2 genders: XX and XY. Anyone not XX or XY is either suffering from Down- or Turner Syndrome.
+If you want more options, start a legal procedure against Mother Nature.  
 
 "You should behave differently because I'm..." is just as much discrimination as "You can't because you're..." (And "Black lives matter"? You honestly think that anything on this floating grain of sand matters?)
 
-Covid19 would not have been a problem if politicians had only elaborated their panic-actions: Stay 1.5 meter apart IN THE BEDROOM. Wear a facemask OVER YOUR GENITALIA. The problem never was a virus. the problem was not being intelligent enough to see that a sphere only has a limited surface.
+Covid19 would not have been a problem if politicians had only elaborated their panic-actions: Stay 1.5 meter apart IN THE BEDROOM. Wear a facemask OVER YOUR GENITALIA. The problem never was a virus. the problem was not being intelligent enough to see that a sphere although it has no edges only has a limited surface.
 
 All you need for a gorgeous sunset is a star, a planet and an atmosphere. 
 
@@ -37,6 +40,8 @@ There's matter and antimatter. There appears to be more matter than antimatter i
 Religions are afterlife-insurance salespeople. Unfortunately for them I'm merely an emergent property of software running on hardware without a persistent storage.
 
 If I'd discover the secret to eternal life I'd take it with me to the grave. It's odd how scientists, smart people one would say, didn't learn a thing from Alfred Nobel. Everything you invent **will** be turned into a weapon. 
+
+The best combination of ice-cream flavours is banana, coconut and cinnamon.
 
 Speak metric to me or I'll probably won't hear you.
 ---
