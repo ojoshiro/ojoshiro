@@ -34,6 +34,8 @@ All you need for a gorgeous sunset is a star, a planet and an atmosphere.
 
 There's matter and antimatter. There appears to be more matter than antimatter in the universe. Although, if there were more antimatter we'd call antimatter matter so it doesn't matter.
 
+Religions are afterlife-insurance salespeople. Unfortunately for them I'm merely an emergent property of software running on hardware without a persistent storage.
+
 If I'd discover the secret to eternal life I'd take it with me to the grave. It's odd how scientists, smart people one would say, didn't learn a thing from Alfred Nobel. Everything you invent **will** be turned into a weapon. 
 
 Speak metric to me or I'll probably won't hear you.
